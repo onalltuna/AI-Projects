@@ -1,0 +1,2 @@
+# AI-Projects
+Project Solutions of Comp341 INTRODUCTION TO ARTIFICIAL INTELLIGENCE Course
